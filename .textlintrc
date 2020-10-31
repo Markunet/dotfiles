@@ -2,12 +2,10 @@
   "filters": {},
   "rules": {
     "preset-ja-spacing": {
-      "ja-space-between-half-and-full-width": {
-        "space": "always"
-      }
+      "ja-space-between-half-and-full-width": false
     },
     "preset-ja-technical-writing": true,
-    "spellcheck-tech-word": true
+    "spellcheck-tech-word": true,
     "no-dropping-the-ra": true
   }
 }
